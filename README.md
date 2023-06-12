@@ -21,7 +21,7 @@ Install require packages
 
 Clone project to your computer
 
-	git clone https://github.com/t7hm1/My-django-project.git
+	git clone https://github.com/GreatHub1204/django-test.git
 
 Migrate project
 
